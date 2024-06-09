@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "359157",
+    "database": "CoursesWebSite",
+    "host": "localhost",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "test": {
+    "username": "postgres",
+    "password": "359157",
+    "database": "CoursesWebSite",
+    "host": "localhost",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "production": {
+    "username": "postgres",
+    "password": "359157",
+    "database": "CoursesWebSite",
+    "host": "localhost",
+    "dialect": "postgres",
+    "logging": false
+  }
+}
