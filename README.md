@@ -74,4 +74,4 @@ npm start
 ![files structure](https://firebasestorage.googleapis.com/v0/b/my-gallery-2e2f2.appspot.com/o/Screenshot%202024-06-09%20133726.png?alt=media&token=0ce806bc-6600-436c-acfe-60224cce8a2a)
 
 
-![config file](https://firebasestorage.googleapis.com/v0/b/my-gallery-2e2f2.appspot.com/o/Screenshot%202024-06-09%20133933.png?alt=media&token=ca39240a-9f4b-4c04-b1b3-04df7d699a0)
+![config file](https://firebasestorage.googleapis.com/v0/b/my-gallery-2e2f2.appspot.com/o/Screenshot%202024-06-09%20133933.png?alt=media&token=ca39240a-9f4b-4c04-b1b3-04df7d699a03)
