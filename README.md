@@ -68,3 +68,10 @@ run command:
 ```
 npm start
 ```
+
+***
+### 3. Extra
+!(files structure)[https://drive.google.com/file/d/1VkyGLNBnQyblYDqV8JE5r2yLQP06QH6w/view?usp=sharing]
+
+
+!(config file)[https://drive.google.com/file/d/1fjKJpeXMEMukUVsKpS4XQAwz7eUvRYcQ/view?usp=sharing]
