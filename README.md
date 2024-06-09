@@ -10,13 +10,21 @@ This README file will guide you through the process of setting up and running th
 ## Setup and Installation
 
 ### 1. Clone the Repository
-First, clone the repository to your local machine:
+First, clone the repository to your local machine from cmd:
 ```
 git clone https://github.com/mothana404/course-project.git
 ```
 
+```
+cd course-project
+```
+
+```
+code .
+```
+
 ### 2. How to run the server
-go to the backend file from the terminal:
+go to the backend file from the vs code terminal:
 ```
 cd Backend
 ```
